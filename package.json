@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://jonatandb.github.io/react-datatable-example/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
